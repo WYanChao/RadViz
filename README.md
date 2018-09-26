@@ -1,5 +1,5 @@
 # RadViz
-RadViz is radial visualization method for displaying high-dimensional data in two-dimensnional space[[1]](https://ieeexplore.ieee.org/document/663916). This program is in JavaScript and only depend on [d3.js library](https://github.com/d3). Another implementation of RadViz based on [d3.js library](https://github.com/d3) can be found [here](https://github.com/biovisualize/radviz) by [Chris Viau](https://github.com/biovisualize).
+RadViz is radial visualization method for displaying high-dimensional data in two-dimensnional space[[1]](https://ieeexplore.ieee.org/document/663916). This program is in JavaScript and only depend on [d3.js library](https://github.com/d3). A screenshot of this implementation is shown below. Based on RadViz, I designed a radial distortion method, [PolarViz](https://github.com/WYanChao/PolarViz). Another implementation of RadViz based on [d3.js library](https://github.com/d3) can be found [here](https://github.com/biovisualize/radviz) by [Chris Viau](https://github.com/biovisualize).
 ![ScreenShot](https://github.com/WYanChao/RadViz/blob/master/example/ScreenShot.png)
 
 # About the Code
